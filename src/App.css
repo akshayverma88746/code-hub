@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.h11{
+  padding-top: 300px;
+  padding-left: 80px;
+  position: relative;
+  font-family: 'Caprasimo', cursive;
+  font-size: 90px;
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+#ptag{
+  position: relative;
+  color: white;
+  padding-left: 80px;
+  font-family: 'Instrument Sans', sans-serif;
+  font-size: 32px;
+  float: left;
+  width: 50%;
+}
+
+#imgtag{
+  padding-right: 80px;
+  padding-top: 250px;
+  float: right;
+  width: 700px;
+}
+
