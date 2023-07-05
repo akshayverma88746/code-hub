@@ -9,10 +9,10 @@ const Navbar = () =>{
                 <div>
                     <ul id="navbar">
                         <li>
-                            <Link to="/webd">Web-Editor</Link>
+                            <a href="/webdev">Web-Editor</a>
                         </li>
                         <li>
-                            <Link to="/cedit">Code-Editor</Link>
+                            <a href="/cedit">Code-Editor</a>
                         </li>
                     </ul>
                 </div>
