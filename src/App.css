@@ -37,7 +37,7 @@
   }
 }
 .h11{
-  padding-top: 300px;
+  padding-top: 280px;
   padding-left: 80px;
   position: relative;
   font-family: 'Caprasimo', cursive;
@@ -67,4 +67,12 @@
 .CodeMirror{
   height: 350px;
   color: white
+}
+
+.CodeMirror-gutters{
+  background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll{
+  background: #1d1e22 !important;
 }
