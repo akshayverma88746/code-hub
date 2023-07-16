@@ -4,7 +4,7 @@
 import Code from './Code';
 import Result from './Result';
 
-const Home = () => {
+const Home1 = () => {
     return (
         <>
             <Code />
@@ -13,4 +13,4 @@ const Home = () => {
     )
 }
 
-export default Home;
+export default Home1;
